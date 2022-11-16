@@ -1,0 +1,7 @@
+
+Red Child 45.0 200 1
+Blue Child 20.5 250 2
+Yallow Child 40.5 300 3
+fl Child 20.0 100 5
+Oud Furniture 100.0 150 21
+Ryhan Furniture 150.5 200 22
